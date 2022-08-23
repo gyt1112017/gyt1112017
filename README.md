@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yutong Gang
 - 👀 I’m interested in tech and programming
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to find software engineer job
 - 📫 Reach me via Linkein https://www.linkedin.com/in/yutong-gang-400b49149
 
 <!---
