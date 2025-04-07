@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Yutong Gang
-- 👀 I’m interested in tech and programming
-- 💻 I have experience in web development
-- 🌱 I’m currently learning software development
+- 👀 Tech enthusiast & programming learner
+- 💻 Experienced in web development
+- 🌱 Currently diving deeper into software development
+- 👏🏼 Working as a Digital Marketer @ Bova UK
 - 📫 Reach me via Linkein https://www.linkedin.com/in/yutong-gang-400b49149
 
 <!---
